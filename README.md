@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro repositório
+# Desafios Python
+ Repositório criado para colocar meus exercícios em Python.
